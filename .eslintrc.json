@@ -25,6 +25,5 @@
         "sourceType": "module"
     },
     "rules": {
-      "no-console": "error"
     }
 }
