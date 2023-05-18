@@ -14,6 +14,7 @@ export class Character {
 		this.age = age;
 		this.alive = true;
 		this.message = '';
+    
 	}
 }
 
